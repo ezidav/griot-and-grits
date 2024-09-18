@@ -21,10 +21,10 @@ The project aims to achieve the following objectives:
 # Work to Do  
 
 The Griot and Grits Project will bring the African American experience to life for our generation and generations to come by building innovative technology that does the following:
-1. Enable users to upload video and audio recordings to a centralized repository or library.
-2. Extract metadata and key events from the uploaded content using AI.
-3. Enrich the metadata and key events with information, videos, audio and pictures from the public domain using AI.
-4. Annotate the uploaded video and audio recordings with the enriched content using AI.
-5. Use Generative AI to further enhance the enriched content with additional contextual information, videos, audio and/or pictures.
-6. Build an index of searchable content based on the metadata and key events.
-7. Allow users to explore the indexed content via a search engine or a visual geographical map.
+1. Enable users to upload video and audio recordings to a [centralized repository](1-content-upload-storage/) or library.
+2. [Extract metadata and key events](2-metadata-key-events-extraction/) from the uploaded content using AI.
+3. [Enrich the metadata and key events](3-metadata-key-events-enrichment/) with information, videos, audio and pictures from the public domain using AI.
+4. [Annotate the uploaded video and audio recordings](4-original-content-annotator/) with the enriched content using AI.
+5. Use [Generative AI to further enhance](5-gen-ai-enrichment/) the enriched content with additional contextual information, videos, audio and/or pictures.
+6. Build an [index of searchable content](6-searchable-catalog-builder/) based on the metadata and key events.
+7. Allow users to [explore the indexed content](7-catalog-explorer/) via a search engine or a visual geographical map.
