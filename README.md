@@ -20,9 +20,10 @@ The project aims to achieve the following objectives:
 
 # Work to Do  
 
+The Griot and Grits Project will bring the African American experience to life for our generation and generations to come by building innovative technology that does the following:
+
 ![alt Griot and Grits Workflow](content/griot-and-grits.png "Griot and Grits Workflow")  
 
-The Griot and Grits Project will bring the African American experience to life for our generation and generations to come by building innovative technology that does the following:
 1. Enable users to upload video and audio recordings to a [centralized repository](1-content-upload-storage/) or library.
 2. [Extract metadata and key events](2-metadata-key-events-extraction/) from the uploaded content using AI.
 3. [Enrich the metadata and key events](3-metadata-key-events-enrichment/) with information, videos, audio and pictures from the public domain using AI.
