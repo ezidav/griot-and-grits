@@ -15,8 +15,16 @@ The project aims to achieve the following objectives:
 + Create a comprehensive, searchable library of recorded oral and video accounts of the lives of local African Americans.
 + Use AI to highlight key events from the recorded content and associate them with similar events to create a richer story.
 + Generate a geographical representation of the stories to allow individuals to search by location.
-+ Recreate a documentary-like view of individual stories by using AI to augment key events with additional relevant background information, photos and videos.
++ Recreate a documentary-like view of individual stories with the assistance of AI to augment key events with additional relevant background information, photos and videos.
 + Build referencable Family Chapters for individuals to find out more about their unique family history.
+
+Here is a example of what we could do in the Griot and Grits project to enhance, enrich and contextualize African American stories with the assistance of AI.  The following was done manually and is purely conceptual.  
+
+<em>**Before AI-assisted Enhancements**</em>  
+[![Gladys M. Williams - Before](https://img.youtube.com/vi/tcoWtxpoCVc/0.jpg)](https://www.youtube.com/watch?v=tcoWtxpoCVc)  
+
+<em>**After AI-assisted Enhancements**</em>  
+[![Gladys M. Williams - After](https://img.youtube.com/vi/LgI3WCie6Zk/0.jpg)](https://www.youtube.com/watch?v=LgI3WCie6Zk&t=7s)  
 
 # Work to Do  
 
@@ -26,8 +34,8 @@ The Griot and Grits Project will bring the African American experience to life f
 
 1. Enable users to upload video and audio recordings to a [centralized repository](1-content-upload-storage/) or library.
 2. [Extract metadata and key events](2-metadata-key-events-extraction/) from the uploaded content using AI.
-3. [Enrich the metadata and key events](3-metadata-key-events-enrichment/) with information, videos, audio and pictures from the public domain using AI.
+3. [Enrich the metadata and key events](3-metadata-key-events-enrichment/) with information, videos, audio and pictures from the public domain using the assistance of AI.
 4. [Annotate the uploaded video and audio recordings](4-original-content-annotator/) with the enriched content using AI.
-5. Use [Generative AI to further enhance](5-gen-ai-enrichment/) the enriched content with additional contextual information, videos, audio and/or pictures.
+5. Use the assistance of [Generative AI to further enhance](5-gen-ai-enrichment/) the enriched content with additional contextual information, videos, audio and/or pictures.
 6. Build an [index of searchable content](6-searchable-catalog-builder/) based on the metadata and key events.
 7. Allow users to [explore the indexed content](7-catalog-explorer/) via a search engine or a visual geographical map.
