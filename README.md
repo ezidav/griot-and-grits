@@ -18,13 +18,9 @@ The project aims to achieve the following objectives:
 + Recreate a documentary-like view of individual stories with the assistance of AI to augment key events with additional relevant background information, photos and videos.
 + Build referencable Family Chapters for individuals to find out more about their unique family history.
 
-Here is a example of what we could do in the Griot and Grits project to enhance, enrich and contextualize African American stories with the assistance of AI.  The following was done manually and is purely conceptual.  
-
-<em>**Before AI-assisted Enhancements**</em>  
-[![Gladys M. Williams - Before](https://img.youtube.com/vi/tcoWtxpoCVc/0.jpg)](https://www.youtube.com/watch?v=tcoWtxpoCVc)  
-
-<em>**After AI-assisted Enhancements**</em>  
-[![Gladys M. Williams - After](https://img.youtube.com/vi/LgI3WCie6Zk/0.jpg)](https://www.youtube.com/watch?v=LgI3WCie6Zk&t=7s)  
+# The Story Behind the Griot and Grits Project  
+<em>**Listen to Our Story**</em>  
+[![The Story Behind the Griot and Grits Project](https://img.youtube.com/vi/nP0UNZSbH88/0.jpg)](https://www.youtube.com/watch?v=nP0UNZSbH88)  
 
 # Work to Do  
 
@@ -39,3 +35,16 @@ The Griot and Grits Project will bring the African American experience to life f
 5. Use the assistance of [Generative AI to further enhance](5-gen-ai-enrichment/) the enriched content with additional contextual information, videos, audio and/or pictures.
 6. Build an [index of searchable content](6-searchable-catalog-builder/) based on the metadata and key events.
 7. Allow users to [explore the indexed content](7-catalog-explorer/) via a search engine or a visual geographical map.
+
+# A Conceptual Example
+Here is a example of what we hope to do in the Griot and Grits project to enhance, enrich and contextualize African American stories with the assistance of AI.  The following was done manually and is purely conceptual.  
+
+<em>**Before AI-assisted Enhancements**</em>  
+[![Gladys M. Williams - Before](https://img.youtube.com/vi/tcoWtxpoCVc/0.jpg)](https://www.youtube.com/watch?v=tcoWtxpoCVc)  
+
+<em>**After AI-assisted Enhancements (concept only)**</em>  
+[![Gladys M. Williams - After](https://img.youtube.com/vi/LgI3WCie6Zk/0.jpg)](https://www.youtube.com/watch?v=LgI3WCie6Zk&t=7s)  
+
+# Contributing to the Project  
+
+There's a lot of work to do to get this project off the ground.  Your help is always welcome.  We need a project website, code to store and enhance content with AI, documentation, and much much more!  Just jump right in and start submitting some PRs to get the project moving.  If you're interested in joining as a member, reach out to us!
