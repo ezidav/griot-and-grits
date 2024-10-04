@@ -43,7 +43,7 @@ Here is a example of what we hope to do in the Griot and Grits project to enhanc
 [![Gladys M. Williams - Before](https://img.youtube.com/vi/tcoWtxpoCVc/0.jpg)](https://www.youtube.com/watch?v=tcoWtxpoCVc)  
 
 <em>**After AI-assisted Enhancements (concept only)**</em>  
-[![Gladys M. Williams - After](https://img.youtube.com/vi/LgI3WCie6Zk/0.jpg)](https://www.youtube.com/watch?v=LgI3WCie6Zk&t=7s)  
+[![Gladys M. Williams - After](https://img.youtube.com/vi/bI26vj95bwM/0.jpg)](https://youtu.be/bI26vj95bwM?t=100)  
 
 # Contributing to the Project  
 
