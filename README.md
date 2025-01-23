@@ -48,3 +48,5 @@ Here is a example of what we hope to do in the Griot and Grits project to enhanc
 # Contributing to the Project  
 
 There's a lot of work to do to get this project off the ground.  Your help is always welcome.  We need a project website, code to store and enhance content with AI, documentation, and much much more!  Just jump right in and start submitting some PRs to get the project moving.  If you're interested in joining as a member, reach out to us!
+
+Check out the [docs](https://github.com/griot-and-grits/griot-and-grits/tree/main/docs)
