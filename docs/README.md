@@ -5,7 +5,7 @@
 ## How to access the object storage through UI
 Object storage is essentially like storing files on Google Drive, Dropbox, or even your computer. Except this one lives on the cluster and can be accessed programatically. This is a must so that we can access the files through our automation processes. 
 
-The link to our object bucket is [here.](https://docs.google.com/document/d/13xZcWiSxArTcZDFHFsGuKeUelLZrV7RPO9xxu0UDaRU/edit?usp=drive_link)
+The link to our object bucket is [here.](https://docs.google.com/document/d/13xZcWiSxArTcZDFHFsGuKeUelLZrV7RPO9xxu0UDaRU/)
 
 Please ask Sherard Griffin (sgriffin@redhat.com) or Sidney Glinton (sglinton@redhat.com) for access.
 
@@ -18,6 +18,7 @@ We will most likely only be using the `griot-grits-catalog` bucket (or main fold
 Click into this bucket, and then you will see the additional folders within. You can upload files by hitting the `Upload` button in the top right corner.
 ![alt text](images/minio/image-1.png)
 
+For formatting instructions, please see `POC File Format` in this [doc.](https://docs.google.com/document/d/13xZcWiSxArTcZDFHFsGuKeUelLZrV7RPO9xxu0UDaRU/edit?usp=drive_link)
 
 ## How to create API Keys
 Once logged in, click `Access Keys` on the side.
