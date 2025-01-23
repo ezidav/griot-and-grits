@@ -7,7 +7,7 @@ Object storage is essentially like storing files on Google Drive, Dropbox, or ev
 
 The link to our object bucket is [here.](https://docs.google.com/document/d/13xZcWiSxArTcZDFHFsGuKeUelLZrV7RPO9xxu0UDaRU/)
 
-Please ask Sherard Griffin (sgriffin@redhat.com) or Sidney Glinton (sglinton@redhat.com) for access.
+Please ask Sherard Griffin (shgriffi@redhat.com) or Sidney Glinton (sglinton@redhat.com) for access.
 
 Once you log in, you will be at a screen that shows a list of your buckets (or root folders if comparing to Google Drive)
 ![alt text](images/minio/image.png)
