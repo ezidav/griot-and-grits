@@ -10,7 +10,7 @@ The link to our object bucket is [here.](https://docs.google.com/document/d/13xZ
 Please ask Sherard Griffin (sgriffin@redhat.com) or Sidney Glinton (sglinton@redhat.com) for access.
 
 Once you log in, you will be at a screen that shows a list of your buckets (or root folders if comparing to Google Drive)
-![alt text](image.png)
+![alt text](images/minio/image.png)
 
 
 We will most likely only be using the `griot-grits-catalog` bucket (or main folder)
