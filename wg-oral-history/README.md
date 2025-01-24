@@ -3,7 +3,7 @@
 WG Oral History is responsible collecting oral history stories from the community.
 
 ## Meetings
-* Regular WG Meeting: To be documented. [Convert to your timezone](http://www.thetimezoneconverter.com/?t=14:00&tz=ET%20%28Eastern%20Time%29).
+* Regular WG Meeting: Weekly on Tuesday @ 4:30 PM ET [Convert to your timezone](http://www.thetimezoneconverter.com/?t=14:00&tz=ET%20%28Eastern%20Time%29).
   * Meeting notes and Agenda To be documented.
 
 ## Members
