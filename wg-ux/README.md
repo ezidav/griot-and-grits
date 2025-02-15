@@ -10,3 +10,4 @@ WG UX is responsible website development.
 
 * Connor Griffin
 * Sherard Griffin (**[@shgriffi](https://github.com/shgriffi)**), Red Hat
+* David Ogbonnaya Red Hat
